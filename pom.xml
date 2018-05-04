@@ -17,6 +17,7 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+            <!--场景启动器-->
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
     </dependencies>
